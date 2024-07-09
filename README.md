@@ -102,7 +102,7 @@ This project was done using [Visual Studio Code](https://code.visualstudio.com/)
 
 ## 📝 License
 
-This project is under the MIT license. See the file [LICENSE](https://douglasdl.github.io/NLW16-html-css-js/blob/main/LICENSE) for more details.
+This project is under the MIT license. See the file [LICENSE](https://github.com/douglasdl/NLW16-html-css-js/blob/main/LICENSE) for more details.
 
 ---
 
