@@ -7,7 +7,7 @@ Trilha HTML+CSS+JS
     <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-ide">IDE</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-licence">License</a>
+    <a href="#-license">License</a>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@ Trilha HTML+CSS+JS
 <br>
 <p align="center">
     <a href="https://douglasdl.github.io/NLW16-html-css-js/index.html">
-        <img alt="Ecoleta" src="https://douglasdl.github.io/images/NLW16-html-css-js.png" width="100%">
+        <img alt="NLW Journey" src="https://douglasdl.github.io/images/NLW16-html-css-js.png" width="100%">
     </a>
 </p>
 
