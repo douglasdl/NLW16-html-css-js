@@ -37,6 +37,7 @@ This project was developped using the following technologies:
 
 📚 Libraries
 - [Google Fonts](https://fonts.google.com/)
+- [Day.js](https://day.js.org/)
 
 🛠 Utilities
 - Images
