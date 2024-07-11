@@ -157,3 +157,13 @@ time.full {
     display: none;
   }
 }
+
+section .card-bg {
+  animation: appear 300ms;
+}
+
+@keyframes appear {
+  from {
+    opacity: 0;
+  }
+}
