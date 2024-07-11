@@ -1,4 +1,13 @@
-html {
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html, option {
   background-color: #09090B;
   color: #FAFAFA;
+}
+
+html, input, select, button, option {
+  font-family: 'Inter', sans-serif;
 }

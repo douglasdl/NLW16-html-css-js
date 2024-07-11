@@ -36,7 +36,7 @@ This project was developped using the following technologies:
 </p>
 
 📚 Libraries
-- [Google Fonts](https://fonts.google.com/)
+- [Google Fonts](https://fonts.google.com/specimen/Inter)
 - [Day.js](https://day.js.org/)
 
 🛠 Utilities
