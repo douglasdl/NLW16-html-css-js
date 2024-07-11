@@ -3,6 +3,7 @@
   padding: 0;
   box-sizing: border-box;
 }
+
 html, option {
   background-color: #09090B;
   color: #FAFAFA;
@@ -10,4 +11,40 @@ html, option {
 
 html, input, select, button, option {
   font-family: 'Inter', sans-serif;
+}
+
+/* app */
+#app {
+  padding: 40px 20px;
+  max-width: 320px;
+  margin: auto;
+}
+
+/* Form */
+input, select {
+  all: unset;
+}
+
+input, select, button {
+  width: 100%;
+}
+
+.fields {
+  display: grid;
+  gap: 8px;
+}
+
+.field-wrapper {
+  padding: 18px;
+  background-color: #09090B;
+  border: 1px solid #27272A;
+  border-radius: 8px;
+
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.field-wrapper:focus-within {
+  outline: 2px solid yellowgreen;
 }
