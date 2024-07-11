@@ -40,9 +40,7 @@ This project was developped using the following technologies:
 - [Day.js](https://day.js.org/)
 
 🛠 Utilities
-- Images
-[Ramdom Photos](http://lorempixel.com/150/150/people/)
-[Clippy CSS](https://bennettfeely.com/clippy/)
+- N/A
 
 ## 📐 Project
 
